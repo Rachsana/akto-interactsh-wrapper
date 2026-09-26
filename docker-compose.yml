@@ -1,0 +1,10 @@
+services:
+  interactsh-wrapper:
+    build: .
+    ports:
+      - "8080:8080"
+    environment:
+      - PORT=8080
+      - INTERACTSH_BINARY=/usr/local/bin/interactsh-client
+      # - INTERACTSH_SERVER_URL=oast.pro   # omit to use the CLI's default server
+    restart: unless-stopped

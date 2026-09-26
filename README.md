@@ -10,11 +10,17 @@ exposing the two APIs from the assignment spec:
 
 ## Demo
 
-![getURL response](screenshots/01-geturl.png)
+### 1. Generate an Interactsh Domain
 
-![Triggering an interaction](screenshots/02-trigger.png)
+![Generated Domain](screenshots/01-domain-generated.png)
 
-![getInteractions response](screenshots/03-getinteractions.png)
+### 2. Trigger a Request
+
+![Trigger Request](screenshots/02-trigger-request.png)
+
+### 3. Retrieve Interactions
+
+![Interactions Received](screenshots/03-interactions-received.png)
 
 ## Approach
 

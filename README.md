@@ -10,12 +10,11 @@ exposing the two APIs from the assignment spec:
 
 ## Demo
 
-<!-- Screenshots go in the screenshots/ folder — drop your PNGs in there and
-     uncomment/duplicate the lines below (relative paths render automatically
-     on GitHub). -->
-<!-- ![getURL response](screenshots/01-geturl.png) -->
-<!-- ![Triggering an interaction](screenshots/02-trigger.png) -->
-<!-- ![getInteractions response](screenshots/03-getinteractions.png) -->
+![getURL response](screenshots/01-geturl.png)
+
+![Triggering an interaction](screenshots/02-trigger.png)
+
+![getInteractions response](screenshots/03-getinteractions.png)
 
 ## Approach
 
